@@ -1,0 +1,11 @@
+com/example/myapp/repository/UserRepository.class
+com/example/myapp/dto/UserDTO.class
+com/example/myapp/entity/Product.class
+com/example/myapp/controller/ProductController.class
+com/example/myapp/repository/ProductRepository.class
+com/example/myapp/service/UserService.class
+com/example/myapp/dto/ProductDTO.class
+com/example/myapp/entity/User.class
+com/example/myapp/service/ProductService.class
+com/example/myapp/controller/UserController.class
+com/example/myapp/MyAppApplication.class
